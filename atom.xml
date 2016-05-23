@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Amon</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-05-23T14:21:45.762Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>lzf</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>lzf</title>
+    <link href="http://yoursite.com/2016/05/22/lzf/"/>
+    <id>http://yoursite.com/2016/05/22/lzf/</id>
+    <published>2016-05-22T13:03:45.000Z</published>
+    <updated>2016-05-23T14:21:45.762Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
+    
+    
+      <category term="1" scheme="http://yoursite.com/tags/1/"/>
+    
+      <category term="2" scheme="http://yoursite.com/tags/2/"/>
+    
+  </entry>
+  
+</feed>
