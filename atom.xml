@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-23T14:21:45.762Z</updated>
+  <updated>2016-05-24T13:35:22.427Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,20 +20,26 @@
     <link href="http://yoursite.com/2016/05/22/lzf/"/>
     <id>http://yoursite.com/2016/05/22/lzf/</id>
     <published>2016-05-22T13:03:45.000Z</published>
-    <updated>2016-05-23T14:21:45.762Z</updated>
+    <updated>2016-05-24T13:35:22.427Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;以上是内容更摘要&lt;/strong&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有最多 只有更多的&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
     
     <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;以上是内容更摘要&lt;/strong&gt;&lt;br&gt;
     
     </summary>
     
       <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
     
     
-      <category term="1" scheme="http://yoursite.com/tags/1/"/>
+      <category term="煞笔" scheme="http://yoursite.com/tags/%E7%85%9E%E7%AC%94/"/>
     
-      <category term="2" scheme="http://yoursite.com/tags/2/"/>
+      <category term="逗逼" scheme="http://yoursite.com/tags/%E9%80%97%E9%80%BC/"/>
     
   </entry>
   
